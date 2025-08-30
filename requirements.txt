@@ -1,0 +1,11 @@
+transformer-lens==2.4.0
+transformers==4.43.3
+accelerate==0.33.0
+datasets==2.20.0
+numpy==1.26.4
+scipy==1.11.4
+pandas==2.2.2
+matplotlib==3.8.4
+tqdm==4.66.4
+datasets==2.20.0
+typegaurd
