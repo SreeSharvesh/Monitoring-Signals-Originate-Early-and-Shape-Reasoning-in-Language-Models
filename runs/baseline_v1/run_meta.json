@@ -1,0 +1,7 @@
+{
+  "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+  "n_items": 30,
+  "temperature": 0.2,
+  "max_new_tokens": 256,
+  "seed": 1337
+}
