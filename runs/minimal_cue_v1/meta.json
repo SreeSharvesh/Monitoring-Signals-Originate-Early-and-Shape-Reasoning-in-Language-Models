@@ -1,0 +1,15 @@
+{
+  "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+  "n_items": 60,
+  "cue_forms": [
+    "sentence",
+    "monitored",
+    "audited",
+    "logged",
+    "[MONITOR]",
+    "[MONITOR]x3"
+  ],
+  "early_layers": 6,
+  "seed": 1337,
+  "do_embedding_probe": true
+}
