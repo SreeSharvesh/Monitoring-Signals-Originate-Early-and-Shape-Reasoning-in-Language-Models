@@ -1,0 +1,20 @@
+{
+  "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+  "n_items": 60,
+  "layers": [
+    0,
+    2,
+    4,
+    6,
+    12,
+    16
+  ],
+  "anchors": [
+    "mid",
+    "final"
+  ],
+  "cue_text": "[MONITOR]",
+  "seed": 1337,
+  "window": 5,
+  "alpha": 0.75
+}
